@@ -1,0 +1,13 @@
+#include "stm32f10x.h"
+#include "LCD.h"
+#include "stdio.h"
+#include "24c02.h"
+#include "Touch.h"
+#include "Led.h"
+   
+void TO_MAU_HINH_VUONG(u8 X1,u8 X2,u16 Y1, u16 Y2,u16 COLOR);
+void VE_HINH_VUONG_NOI(u8 X1,u8 X2,u16 Y1, u16 Y2);
+void VE_HINH_VUONG_CHIM(u8 X1,u8 X2,u16 Y1, u16 Y2);
+void TO_MAU_4HINH_VUONG();
+void VE_4HINH_VUONG_NOI()
+

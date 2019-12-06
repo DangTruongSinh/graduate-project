@@ -1,0 +1,815 @@
+Dependencies for Project 'LCD_TFT1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5D0A36B6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\LCD.h)(0x5BD04136)
+I (..\Libraries\User\Touch.h)(0x560C198C)
+I (..\Libraries\User\24c02.h)(0x53BE5FFA)
+I (..\Libraries\User\spi.h)(0x5BD29338)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599EDB3A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (..\Libraries\User\rc522.h)(0x59477656)
+I (..\Libraries\User\R305.h)(0x5979B082)
+I (..\Libraries\User\USART.h)(0x5BD1429E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (..\Libraries\User\ds1307.h)(0x5ACE1932)
+I (..\Libraries\User\i2c.h)(0x5BE68074)
+I (..\Libraries\User\SD_driver.h)(0x5BD5650C)
+I (..\Libraries\User\ff.h)(0x5BE1463C)
+I (..\Libraries\User\integer.h)(0x5BD56438)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0\cJSON.h)(0x5B02E0E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+F (..\Libraries\User\Touch.c)(0x5D070DFC)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\touch.o --omf_browse .\objects\touch.crf --depend .\objects\touch.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\Touch.h)(0x560C198C)
+I (..\Libraries\User\LCD.h)(0x5BD04136)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EDB3E)
+I (..\Libraries\User\24c02.h)(0x53BE5FFA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+F (..\Libraries\User\lcd.c)(0x5CF3A99C)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (..\Libraries\User\LCD.h)(0x5BD04136)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\font.h)(0x53BA07F6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x599EDB3E)
+I (..\Libraries\User\TV_FONT_MA7DOAN.h)(0x53EC7D82)
+F (..\Libraries\User\24C02.c)(0x53BE6102)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\24c02.o --omf_browse .\objects\24c02.crf --depend .\objects\24c02.d)
+I (..\Libraries\User\24C02.h)(0x53BE5FFA)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (..\Libraries\User\stm32f10x_it.c)(0x56632004)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
+I (..\Libraries\User\stm32f10x_it.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\LCD.h)(0x5BD04136)
+I (..\Libraries\User\Touch.h)(0x560C198C)
+F (..\Libraries\User\spi.c)(0x5BD29350)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (..\Libraries\User\spi.h)(0x5BD29338)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599EDB3A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (..\Libraries\User\rc522.c)(0x5BD279D2)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\rc522.o --omf_browse .\objects\rc522.crf --depend .\objects\rc522.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\rc522.h)(0x59477656)
+I (..\Libraries\User\spi.h)(0x5BD29338)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599EDB3A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+F (..\Libraries\User\R305.c)(0x5D08B579)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\r305.o --omf_browse .\objects\r305.crf --depend .\objects\r305.d)
+I (..\Libraries\User\R305.h)(0x5979B082)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\Libraries\User\USART.h)(0x5BD1429E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\Touch.h)(0x560C198C)
+I (..\Libraries\User\LCD.h)(0x5BD04136)
+F (..\Libraries\User\USART.c)(0x5BD1429E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\USART.h)(0x5BD1429E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+F (..\Libraries\User\diskio.c)(0x4A80F2A4)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\diskio.o --omf_browse .\objects\diskio.crf --depend .\objects\diskio.d)
+I (..\Libraries\User\config.h)(0x5BD5644C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (..\Libraries\User\integer.h)(0x5BD56438)
+I (..\Libraries\User\ff.h)(0x5BE1463C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (..\Libraries\User\diskio.h)(0x4A5F39C2)
+I (..\Libraries\User\SD_driver.h)(0x5BD5650C)
+F (..\Libraries\User\ff.c)(0x4D07533E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\ff.o --omf_browse .\objects\ff.crf --depend .\objects\ff.d)
+I (..\Libraries\User\ff.h)(0x5BE1463C)
+I (..\Libraries\User\integer.h)(0x5BD56438)
+I (..\Libraries\User\diskio.h)(0x4A5F39C2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599EDB3A)
+F (..\Libraries\User\SD_driver.c)(0x5BD56382)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\sd_driver.o --omf_browse .\objects\sd_driver.crf --depend .\objects\sd_driver.d)
+I (..\Libraries\User\SD_driver.h)(0x5BD5650C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (..\Libraries\User\ds1307\ds1307.c)(0x57726880)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\ds1307.o --omf_browse .\objects\ds1307.crf --depend .\objects\ds1307.d)
+I (..\Libraries\User\ds1307\ds1307.h)(0x5ACE1932)
+I (..\Libraries\User\ds1307\i2c.h)(0x5BE68074)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (..\Libraries\User\ds1307\i2c.c)(0x57726880)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (..\Libraries\User\ds1307\i2c.h)(0x5BE68074)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (..\Libraries\User\anh\hinhnen.c)(0x5D071424)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\hinhnen.o --omf_browse .\objects\hinhnen.crf --depend .\objects\hinhnen.d)
+F (..\Libraries\User\anh\password.c)(0x561009A0)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\password.o --omf_browse .\objects\password.crf --depend .\objects\password.d)
+F (..\Libraries\User\anh\myanh.c)(0x5D071479)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\myanh.o --omf_browse .\objects\myanh.crf --depend .\objects\myanh.d)
+F (..\Libraries\User\anh\r305_50_44.c)(0x5BD2FD88)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\r305_50_44.o --omf_browse .\objects\r305_50_44.crf --depend .\objects\r305_50_44.d)
+F (..\Libraries\User\TV_ANH\RFID.c)(0x5C210C94)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\rfid.o --omf_browse .\objects\rfid.crf --depend .\objects\rfid.d)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson\parson.c)(0x5C8A07AE)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\parson.o --omf_browse .\objects\parson.crf --depend .\objects\parson.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson\parson.h)(0x5C8A07AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x599EDB3C)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0\cJSON.c)(0x5B02E0E6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\cjson.o --omf_browse .\objects\cjson.crf --depend .\objects\cjson.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x599EDB3A)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0\cJSON.h)(0x5B02E0E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0\cJSON_Utils.c)(0x5B02E0E6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\cjson_utils.o --omf_browse .\objects\cjson_utils.crf --depend .\objects\cjson_utils.d)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EDB3E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x599EDB3A)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0\cJSON_Utils.h)(0x5B02E0E6)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0\cJSON.h)(0x5B02E0E6)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\misc.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\stm32f10x_exti.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_exti.o --omf_browse .\objects\stm32f10x_exti.crf --depend .\objects\stm32f10x_exti.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\stm32f10x_i2c.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_i2c.o --omf_browse .\objects\stm32f10x_i2c.crf --depend .\objects\stm32f10x_i2c.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\stm32f10x_spi.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_spi.o --omf_browse .\objects\stm32f10x_spi.crf --depend .\objects\stm32f10x_spi.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52F9F930)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\GPIO_STM32F10x.c)(0x571F051A)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\gpio_stm32f10x.o --omf_browse .\objects\gpio_stm32f10x.crf --depend .\objects\gpio_stm32f10x.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617372E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)
+F (RTE\Device\STM32F103VE\RTE_Device.h)(0x57D25D80)()
+F (RTE\Device\STM32F103VE\startup_stm32f10x_hd.s)(0x5825467C)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (RTE\Device\STM32F103VE\stm32f10x_conf.h)(0x52F9FBE0)()
+F (RTE\Device\STM32F103VE\system_stm32f10x.c)(0x5825467C)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\Libraries\User-I.\RTE\Device\STM32F103VE-I.\RTE\_Target_1-IC:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc-IC:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson-IC:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\cJSON\1.0.0-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825467C)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h)(0x5C8F5BE4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825467C)
+I (..\Libraries\User\stm32f10x_conf.h)(0x4D99B3AE)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_adc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_can.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_crc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_exti.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x52F9F930)
+I (C:\Users\MyPC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9F930)

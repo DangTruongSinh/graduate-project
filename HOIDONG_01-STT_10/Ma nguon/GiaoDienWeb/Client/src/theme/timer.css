@@ -1,0 +1,10 @@
+.timercontroller-wrapper {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 10px 15rem;
+  background-image: url("./img/timercontroller_background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white
+}

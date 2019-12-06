@@ -1,0 +1,9 @@
+.\objects\parson.o: C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson\parson.c
+.\objects\parson.o: C:\Users\MyPC\AppData\Local\Arm\Packs\MDK-Packs\Azure_IoT\1.0.1\deps\parson\parson.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\parson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h

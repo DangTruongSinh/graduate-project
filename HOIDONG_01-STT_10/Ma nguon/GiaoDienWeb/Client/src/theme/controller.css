@@ -1,0 +1,73 @@
+.alertAdFeatureBackground {
+  position: absolute;
+  top: -100vh;
+  left: -100vw;
+  min-height: 600px;
+  width: 200vw;
+  height: 200vh;
+  background: #000;
+  opacity: 0.5;
+  z-index: 9999;
+}
+.alertContentBox {
+  max-width: 600px;
+  min-height: 300px;
+  width: 100%;
+  position: fixed;
+  top: 30vh;
+  left:30vw;
+  margin: 0px 10px;
+  z-index: 9999;
+  border-radius: 5px;
+  background-color: #ffffff;
+  -webkit-animation: fadeIn 0.7s forwards;
+          animation: fadeIn 0.7s forwards;
+}
+.alertHeader {
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    font-size:35px;
+    display: block;
+    border-radius: 5px;
+    background-color: #FFBA00;
+    color: #000;
+}
+.alertBody {
+  padding: 15px 10px;
+  padding-left: 20px;
+  text-align: center;
+  font-size: 40px;
+}
+input {
+  width: 100%;
+}
+.react-datepicker__input-container {
+  width: 100%;
+  text-align: center;
+}
+.custome-form {
+  text-align: center;
+  padding: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.alert-class {
+  width: 100%;
+}
+.device-wrapper {
+  padding-top: 10rem;
+  color: black
+}
+.controller-container {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 10px 15rem;
+  background-image: url("./img/controller_background.jpg");
+  background-size: 100vw 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white
+}

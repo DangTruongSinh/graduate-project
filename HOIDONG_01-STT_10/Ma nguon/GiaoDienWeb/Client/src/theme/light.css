@@ -1,0 +1,111 @@
+.controller {
+  flex-basis: 40%;
+  flex-shrink: 1;
+  min-height: 20vh;
+  list-style: none;
+  text-align:center;
+  font-size: 15px;  
+  padding: 10px 5px;
+}
+.sw1_-icon-true {
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  background-image: url('./img/lightOn.png');
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw1_-icon-false {
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  background-image: url('./img/lightOff.png');
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw2_-icon-true {
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  background-image: url('./img/lightOn.png');
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw2_-icon-false {
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  background-image: url('./img/lightOff.png');
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw1_-icon-2nd-true {
+  margin: 0 auto;
+  background-image: url('./img/lightOn.png');
+  width: 180px;
+  height: 200px;
+  background-size: 180px 200px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw1_-icon-2nd-false {
+  margin: 0 auto;
+  background-image: url('./img/lightOff.png');
+  width: 180px;
+  height: 200px;
+  background-size: 180px 200px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw2_-icon-2nd-true {
+  margin: 0 auto;
+  background-image: url('./img/lightOn.png');
+  width: 180px;
+  height: 200px;
+  background-size: 180px 200px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.sw2_-icon-2nd-false {
+  margin: 0 auto;
+  background-image: url('./img/lightOff.png');
+  width: 180px;
+  height: 200px;
+  background-size: 180px 200px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+.status-button {
+  width: 35%;
+  margin: 0 auto; 
+  padding: 5px 3px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: white;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.on {
+  background-color: #00c851;
+}
+.off {
+  background-color: #ff4444;
+}
+.device-name {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.device-status {
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  margin-bottom: 50px;
+  margin-top: 8px;
+}
